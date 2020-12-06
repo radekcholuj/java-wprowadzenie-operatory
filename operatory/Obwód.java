@@ -1,1 +1,3 @@
-class obwód
+class obwód{
+	
+}
